@@ -195,10 +195,10 @@ def parks_styling(feature):
                 }
     else:
         return {
-            'fillColor': 'transparent',
-            'color': 'transparent',
-            'weight': 0,
-            'fillOpacity': 0
+            'fillColor': 'green',
+            'color': 'green',
+            'weight': 1,
+            'fillOpacity': 0.3
         }
 
 if __name__ == "__main__":
